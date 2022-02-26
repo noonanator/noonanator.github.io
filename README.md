@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to Alan Noonan's Github Page
 
-You can use the [editor on GitHub](https://github.com/noonanator/noonanator.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I'm interested in data projects ranging from statistical analysis, to GIS and visualization, to Natural Language Processing. Most of my work is in Python and R. If you find anything interesting here feel free to reach out.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Project List
 
-### Markdown
+- Mapping Mining Towns in the American West
+- Hospital Patient Log Book (19th Century)
+- NLP Historical book
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mapping Mining Towns in the American West
 
-```markdown
-Syntax highlighted code block
+This project is based on research conducted for my book *Mining Irish-American Lives*. Within this book I detail locations throughout the American West, in particular the states of California, Nevada, Idaho, Colorado, Montana. I hope to develop an interactive plotly map with pop up details on the map locations and eventually to deploy that on my website.
 
-# Header 1
-## Header 2
-### Header 3
+### Hospital Patient Log Book (19th Century)
 
-- Bulleted
-- List
+I discovered several fascinating sources in the course of my research, one of which was a patient log book for a hospital in the late nineteenth century. I plan to explore this through a series of deep data dives and hopefully visutalize some interesting finds.
 
-1. Numbered
-2. List
+###NLP Historical book
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noonanator/noonanator.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Natural Language Processing has received limited attention in the academic world of the humanities. I will be deploying several NLP techniques through NLTK libraries, amoungst others, in order to see what sort of utility can be found merging NLP and historical sources.
