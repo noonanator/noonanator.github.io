@@ -5,12 +5,14 @@ I'm interested in data projects ranging from statistical analysis, to GIS and vi
 ## Project List
 
 - Mapping Mining Towns in the American West
-- Hospital Patient Log Book (19th Century)
+- 19th Century Hospital Patient Log Book  
 - NLP Historical book
 
 ### Mapping Mining Towns in the American West
 
 This project is based on research conducted for my book *Mining Irish-American Lives*. Within this book I detail locations throughout the American West, in particular the states of California, Nevada, Idaho, Colorado, Montana. I hope to develop an interactive plotly map with pop up details on the map locations and eventually to deploy that on my website.
+
+For the first part of this project I decided to use folium, both for its ease of use and because the library does not require a dedicated key or license to create an interactive geospatial map. The trade off with using the foium library is that it has less user flexibility than the more advanced google maps or GIS systems. Folium does everything I need for this particular project at the moment, and I used it to host a beautiful, interactive map with photos and text attached to the geolocations linked to my project. It is accessible at hhtps://noonanhistory.com/mapirishamerican  
 
 ### Hospital Patient Log Book (19th Century)
 
